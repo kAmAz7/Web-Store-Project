@@ -1,0 +1,618 @@
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.IO.Compression.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\VBCSCompiler.exe
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\ApplicationInsights.config
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Web.dll.config
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Web.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Web.pdb
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\csc.exe
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\csc.exe.config
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\csc.rsp
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\csi.exe
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\csi.exe.config
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\csi.rsp
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.AppContext.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Console.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.IO.Pipes.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Security.Claims.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Threading.Thread.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.ValueTuple.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Xml.XPath.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\vbc.exe
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\vbc.exe.config
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\vbc.rsp
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Antlr3.Runtime.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\DAL.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\EntityFramework.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\EntityFramework.SqlServer.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Microsoft.AI.Web.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Newtonsoft.Json.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\System.Web.Helpers.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\System.Web.Mvc.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\System.Web.Optimization.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\System.Web.Razor.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\System.Web.WebPages.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\System.Web.WebPages.Razor.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\WebGrease.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\WebProject.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\DAL.pdb
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\DAL.dll.config
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\WebProject.pdb
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\WebProject.dll.config
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\EntityFramework.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\EntityFramework.SqlServer.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\System.Web.Helpers.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\System.Web.Mvc.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\System.Web.Optimization.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\System.Web.Razor.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\System.Web.WebPages.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\System.Web.WebPages.Razor.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Newtonsoft.Json.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Antlr3.Runtime.pdb
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Microsoft.AI.Web.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\obj\Debug\Web.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\Web\obj\Debug\Web.pdb
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\ApplicationInsights.config
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Web.dll.config
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Web.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Web.pdb
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\csc.exe
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\csc.exe.config
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\csc.rsp
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\csi.exe
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\csi.exe.config
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\csi.rsp
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.AppContext.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Console.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.IO.Compression.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.IO.Pipes.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Security.Claims.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Threading.Thread.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.ValueTuple.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Xml.XPath.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\vbc.exe
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\vbc.exe.config
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\vbc.rsp
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\VBCSCompiler.exe
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Antlr3.Runtime.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\DAL.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\EntityFramework.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\EntityFramework.SqlServer.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Microsoft.AI.Web.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Newtonsoft.Json.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\System.Web.Helpers.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\System.Web.Mvc.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\System.Web.Optimization.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\System.Web.Razor.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\System.Web.WebPages.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\System.Web.WebPages.Razor.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\WebGrease.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\WebProject.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\DAL.pdb
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\DAL.dll.config
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\WebProject.pdb
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\WebProject.dll.config
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\EntityFramework.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\EntityFramework.SqlServer.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\System.Web.Helpers.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\System.Web.Mvc.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\System.Web.Optimization.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\System.Web.Razor.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\System.Web.WebPages.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\System.Web.WebPages.Razor.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Newtonsoft.Json.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Antlr3.Runtime.pdb
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Microsoft.AI.Web.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\obj\Debug\Web.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\Web\obj\Debug\Web.pdb
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.ValueTuple.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\VBCSCompiler.exe
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\ApplicationInsights.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Web.dll.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Web.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Web.pdb
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\csc.exe
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\csc.exe.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\csc.rsp
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\csi.exe
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\csi.exe.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\csi.rsp
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.AppContext.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Console.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.IO.Compression.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.IO.Pipes.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Security.AccessControl.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Security.Claims.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Threading.Thread.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Xml.XPath.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\vbc.exe
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\vbc.exe.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\vbc.rsp
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Antlr3.Runtime.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\DAL.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\EntityFramework.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\EntityFramework.SqlServer.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Microsoft.AI.Web.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Microsoft.ApplicationInsights.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Newtonsoft.Json.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\System.Web.Helpers.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\System.Web.Mvc.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\System.Web.Optimization.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\System.Web.Razor.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\System.Web.WebPages.Deployment.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\System.Web.WebPages.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\System.Web.WebPages.Razor.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\WebGrease.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\WebProject.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\DAL.pdb
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\DAL.dll.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\WebProject.pdb
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\WebProject.dll.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\EntityFramework.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\EntityFramework.SqlServer.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\System.Web.Helpers.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\System.Web.Mvc.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\System.Web.Optimization.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\System.Web.Razor.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\System.Web.WebPages.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\System.Web.WebPages.Deployment.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\System.Web.WebPages.Razor.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Newtonsoft.Json.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Antlr3.Runtime.pdb
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Microsoft.AI.Web.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\obj\Debug\Web.csproj.CopyComplete
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\obj\Debug\Web.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\Web\obj\Debug\Web.pdb
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\ApplicationInsights.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Web.dll.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Web.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Web.pdb
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\csc.exe
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\csc.exe.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\csc.rsp
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\csi.exe
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\csi.exe.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\csi.rsp
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.AppContext.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Console.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.IO.Compression.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.IO.Pipes.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Security.AccessControl.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Security.Claims.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Threading.Thread.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.ValueTuple.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Xml.XPath.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\vbc.exe
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\vbc.exe.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\vbc.rsp
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\VBCSCompiler.exe
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Antlr3.Runtime.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\DAL.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\EntityFramework.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\EntityFramework.SqlServer.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Microsoft.AI.Web.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Microsoft.ApplicationInsights.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Newtonsoft.Json.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\System.Web.Helpers.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\System.Web.Mvc.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\System.Web.Optimization.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\System.Web.Razor.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\System.Web.WebPages.Deployment.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\System.Web.WebPages.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\System.Web.WebPages.Razor.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\WebGrease.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\WebProject.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\DAL.pdb
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\DAL.dll.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\WebProject.pdb
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\WebProject.dll.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\EntityFramework.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\EntityFramework.SqlServer.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\System.Web.Helpers.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\System.Web.Mvc.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\System.Web.Optimization.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\System.Web.Razor.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\System.Web.WebPages.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\System.Web.WebPages.Deployment.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\System.Web.WebPages.Razor.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Newtonsoft.Json.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Antlr3.Runtime.pdb
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Microsoft.AI.Web.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\obj\Debug\Web.csproj.CopyComplete
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\obj\Debug\Web.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\Web\obj\Debug\Web.pdb
+C:\GitHub\Web Project\WebProject\Web\bin\ApplicationInsights.config
+C:\GitHub\Web Project\WebProject\Web\bin\Web.dll.config
+C:\GitHub\Web Project\WebProject\Web\bin\Web.dll
+C:\GitHub\Web Project\WebProject\Web\bin\Web.pdb
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\csc.exe
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\csc.exe.config
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\csc.rsp
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\csi.exe
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\csi.exe.config
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\csi.rsp
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.AppContext.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Console.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.IO.Compression.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.IO.Pipes.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Security.AccessControl.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Security.Claims.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Threading.Thread.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.ValueTuple.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Xml.XPath.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\vbc.exe
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\vbc.exe.config
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\vbc.rsp
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\VBCSCompiler.exe
+C:\GitHub\Web Project\WebProject\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\GitHub\Web Project\WebProject\Web\bin\Antlr3.Runtime.dll
+C:\GitHub\Web Project\WebProject\Web\bin\DAL.dll
+C:\GitHub\Web Project\WebProject\Web\bin\EntityFramework.dll
+C:\GitHub\Web Project\WebProject\Web\bin\EntityFramework.SqlServer.dll
+C:\GitHub\Web Project\WebProject\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\GitHub\Web Project\WebProject\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\GitHub\Web Project\WebProject\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\GitHub\Web Project\WebProject\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\GitHub\Web Project\WebProject\Web\bin\Microsoft.AI.Web.dll
+C:\GitHub\Web Project\WebProject\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\GitHub\Web Project\WebProject\Web\bin\Microsoft.ApplicationInsights.dll
+C:\GitHub\Web Project\WebProject\Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\GitHub\Web Project\WebProject\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GitHub\Web Project\WebProject\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\GitHub\Web Project\WebProject\Web\bin\Newtonsoft.Json.dll
+C:\GitHub\Web Project\WebProject\Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\GitHub\Web Project\WebProject\Web\bin\System.Web.Helpers.dll
+C:\GitHub\Web Project\WebProject\Web\bin\System.Web.Mvc.dll
+C:\GitHub\Web Project\WebProject\Web\bin\System.Web.Optimization.dll
+C:\GitHub\Web Project\WebProject\Web\bin\System.Web.Razor.dll
+C:\GitHub\Web Project\WebProject\Web\bin\System.Web.WebPages.Deployment.dll
+C:\GitHub\Web Project\WebProject\Web\bin\System.Web.WebPages.dll
+C:\GitHub\Web Project\WebProject\Web\bin\System.Web.WebPages.Razor.dll
+C:\GitHub\Web Project\WebProject\Web\bin\WebGrease.dll
+C:\GitHub\Web Project\WebProject\Web\bin\WebProject.dll
+C:\GitHub\Web Project\WebProject\Web\bin\DAL.pdb
+C:\GitHub\Web Project\WebProject\Web\bin\DAL.dll.config
+C:\GitHub\Web Project\WebProject\Web\bin\WebProject.pdb
+C:\GitHub\Web Project\WebProject\Web\bin\WebProject.dll.config
+C:\GitHub\Web Project\WebProject\Web\bin\EntityFramework.xml
+C:\GitHub\Web Project\WebProject\Web\bin\EntityFramework.SqlServer.xml
+C:\GitHub\Web Project\WebProject\Web\bin\System.Web.Helpers.xml
+C:\GitHub\Web Project\WebProject\Web\bin\System.Web.Mvc.xml
+C:\GitHub\Web Project\WebProject\Web\bin\System.Web.Optimization.xml
+C:\GitHub\Web Project\WebProject\Web\bin\System.Web.Razor.xml
+C:\GitHub\Web Project\WebProject\Web\bin\System.Web.WebPages.xml
+C:\GitHub\Web Project\WebProject\Web\bin\System.Web.WebPages.Deployment.xml
+C:\GitHub\Web Project\WebProject\Web\bin\System.Web.WebPages.Razor.xml
+C:\GitHub\Web Project\WebProject\Web\bin\Newtonsoft.Json.xml
+C:\GitHub\Web Project\WebProject\Web\bin\Antlr3.Runtime.pdb
+C:\GitHub\Web Project\WebProject\Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\GitHub\Web Project\WebProject\Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\GitHub\Web Project\WebProject\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\GitHub\Web Project\WebProject\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\GitHub\Web Project\WebProject\Web\bin\Microsoft.AI.Web.xml
+C:\GitHub\Web Project\WebProject\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GitHub\Web Project\WebProject\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\GitHub\Web Project\WebProject\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\GitHub\Web Project\WebProject\Web\obj\Debug\Web.csproj.CopyComplete
+C:\GitHub\Web Project\WebProject\Web\obj\Debug\Web.dll
+C:\GitHub\Web Project\WebProject\Web\obj\Debug\Web.pdb
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\ApplicationInsights.config
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Web.dll.config
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Web.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Web.pdb
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\csc.exe
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\csc.exe.config
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\csc.rsp
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\csi.exe
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\csi.exe.config
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\csi.rsp
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.AppContext.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Console.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.IO.Compression.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.IO.Pipes.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Security.AccessControl.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Security.Claims.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Threading.Thread.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.ValueTuple.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Xml.XPath.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\vbc.exe
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\vbc.exe.config
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\vbc.rsp
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\VBCSCompiler.exe
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Antlr3.Runtime.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\DAL.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\EntityFramework.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\EntityFramework.SqlServer.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Microsoft.AI.Web.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Microsoft.ApplicationInsights.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Newtonsoft.Json.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\System.Web.Helpers.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\System.Web.Mvc.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\System.Web.Optimization.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\System.Web.Razor.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\System.Web.WebPages.Deployment.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\System.Web.WebPages.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\System.Web.WebPages.Razor.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\WebGrease.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\WebProject.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\DAL.pdb
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\DAL.dll.config
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\WebProject.pdb
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\WebProject.dll.config
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\EntityFramework.xml
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\EntityFramework.SqlServer.xml
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\System.Web.Helpers.xml
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\System.Web.Mvc.xml
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\System.Web.Optimization.xml
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\System.Web.Razor.xml
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\System.Web.WebPages.xml
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\System.Web.WebPages.Deployment.xml
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\System.Web.WebPages.Razor.xml
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Newtonsoft.Json.xml
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Antlr3.Runtime.pdb
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Microsoft.AI.Web.xml
+C:\GitHub\Web Store Project\WebStoreProject\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GitHub\Web Store Project\WebStoreProject\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\GitHub\Web Store Project\WebStoreProject\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\GitHub\Web Store Project\WebStoreProject\Web\obj\Debug\Web.csproj.CopyComplete
+C:\GitHub\Web Store Project\WebStoreProject\Web\obj\Debug\Web.dll
+C:\GitHub\Web Store Project\WebStoreProject\Web\obj\Debug\Web.pdb

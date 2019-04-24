@@ -1,0 +1,47 @@
+﻿@model IEnumerable<WebProject.ModelDTO.ProductDTO>
+<head>
+    <link href="~/Style/ViewHeader.css" rel="stylesheet" />
+</head>
+<script src="~/Scripts/jquery-3.3.1.js"></script>
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+<script src="~/Scripts/RemoveCart.js"></script>
+<br />
+<h2>Shoppoing cart</h2>
+@{
+    if (Model == null)
+    {
+        <h3>Your Shopping Cart is empty</h3>
+    }
+    else
+    {
+        <ol>
+            @foreach (var item in Model)
+            {
+                <li><label><input type="checkbox" checked="checked" class="prodBox" value="@(item.Id)"><a href="@Url.Action("ShowProductDetails","Product", new { id = item.Id})">@item.Title</a> <span class="text-danger">Price:</span> @item.Price $</label></li>
+            }
+        </ol>
+
+        if(Request.IsAuthenticated)
+        {
+            <h4 class="text-danger">Congratulations! As a member, you are entitled to a 10% discount!!!</h4>
+        }
+        else
+        {
+            <h4 class="text-danger">Members enjoy a 10% discount on all products, what's your excuse?</h4>
+        }
+        <div class="row pull-right">
+            <h4 id="sum">Total: @ViewBag.sum $</h4>
+            <input type="button" value="Check Out" class="btn btn-primary" onclick="window.location='@Url.Action("CheckOut", "Product")'" />
+        </div>
+
+    }
+}
+
+<p class="row"></p>
+
+
+
+
+
+
+

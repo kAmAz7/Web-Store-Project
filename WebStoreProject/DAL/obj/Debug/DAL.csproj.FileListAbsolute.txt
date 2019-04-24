@@ -1,0 +1,75 @@
+C:\Dev\11.Asp.net + Mvc\WebProject\DAL\bin\Debug\DAL.dll.config
+C:\Dev\11.Asp.net + Mvc\WebProject\DAL\bin\Debug\DAL.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\DAL\bin\Debug\DAL.pdb
+C:\Dev\11.Asp.net + Mvc\WebProject\DAL\bin\Debug\EntityFramework.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\DAL\bin\Debug\WebProject.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\DAL\bin\Debug\WebProject.pdb
+C:\Dev\11.Asp.net + Mvc\WebProject\DAL\bin\Debug\WebProject.dll.config
+C:\Dev\11.Asp.net + Mvc\WebProject\DAL\bin\Debug\EntityFramework.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\11.Asp.net + Mvc\WebProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Dev\11.Asp.net + Mvc\WebProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Dev\11.Asp.net + Mvc\WebProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Dev\11.Asp.net + Mvc\WebProject\DAL\obj\Debug\DAL.dll
+C:\Dev\11.Asp.net + Mvc\WebProject\DAL\obj\Debug\DAL.pdb
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\DAL\obj\Debug\DAL.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\DAL\obj\Debug\DAL.pdb
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\DAL\bin\Debug\DAL.dll.config
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\DAL\bin\Debug\DAL.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\DAL\bin\Debug\DAL.pdb
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\DAL\bin\Debug\EntityFramework.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\DAL\bin\Debug\WebProject.dll
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\DAL\bin\Debug\WebProject.pdb
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\DAL\bin\Debug\WebProject.dll.config
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\DAL\bin\Debug\EntityFramework.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\11.Asp.net + Mvc\HomeWrok\WebProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\DAL\bin\Debug\DAL.dll.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\DAL\bin\Debug\DAL.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\DAL\bin\Debug\DAL.pdb
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\DAL\bin\Debug\EntityFramework.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\DAL\bin\Debug\WebProject.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\DAL\bin\Debug\WebProject.pdb
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\DAL\bin\Debug\WebProject.dll.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\DAL\bin\Debug\EntityFramework.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\DAL\obj\Debug\DAL.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Project Web - Friends\Shai\WebProject\DAL\obj\Debug\DAL.pdb
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\DAL\bin\Debug\DAL.dll.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\DAL\bin\Debug\DAL.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\DAL\bin\Debug\DAL.pdb
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\DAL\bin\Debug\EntityFramework.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\DAL\bin\Debug\WebProject.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\DAL\bin\Debug\WebProject.pdb
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\DAL\bin\Debug\WebProject.dll.config
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\DAL\bin\Debug\EntityFramework.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\DAL\obj\Debug\DAL.dll
+C:\C#.NET\Amir - ASP.NET MVC 5 Web\Project Web\Web Project - Final\WebProject\DAL\obj\Debug\DAL.pdb
+C:\GitHub\Web Store Project\WebStoreProject\DAL\bin\Debug\DAL.dll.config
+C:\GitHub\Web Store Project\WebStoreProject\DAL\bin\Debug\DAL.dll
+C:\GitHub\Web Store Project\WebStoreProject\DAL\bin\Debug\DAL.pdb
+C:\GitHub\Web Store Project\WebStoreProject\DAL\bin\Debug\EntityFramework.dll
+C:\GitHub\Web Store Project\WebStoreProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\Web Store Project\WebStoreProject\DAL\bin\Debug\WebProject.dll
+C:\GitHub\Web Store Project\WebStoreProject\DAL\bin\Debug\WebProject.pdb
+C:\GitHub\Web Store Project\WebStoreProject\DAL\bin\Debug\WebProject.dll.config
+C:\GitHub\Web Store Project\WebStoreProject\DAL\bin\Debug\EntityFramework.xml
+C:\GitHub\Web Store Project\WebStoreProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\Web Store Project\WebStoreProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\GitHub\Web Store Project\WebStoreProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\GitHub\Web Store Project\WebStoreProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\GitHub\Web Store Project\WebStoreProject\DAL\obj\Debug\DAL.dll
+C:\GitHub\Web Store Project\WebStoreProject\DAL\obj\Debug\DAL.pdb

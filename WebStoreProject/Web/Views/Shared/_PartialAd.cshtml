@@ -1,0 +1,62 @@
+﻿@model WebProject.ModelDTO.ProductDTO
+<html>
+<head>
+    <link href="~/Style/AdStyle.css" rel="stylesheet" />
+</head>
+<body>
+    @{
+        string imgSrc = null;
+        byte[] imageToShow = null;
+        if(Model.Picture1 != null)
+        {
+            imageToShow = Model.Picture1;
+        }
+        else if(Model.Picture2 != null)
+        {
+            imageToShow = Model.Picture2;
+        }
+        else if(Model.Picture3 != null)
+        {   
+            imageToShow = Model.Picture3;
+        }
+
+        if (imageToShow != null)
+        {
+            var base64 = Convert.ToBase64String(imageToShow);
+            imgSrc = String.Format("data:image/gif;base64,{0}", base64);
+        }
+        else
+        {
+            imgSrc = "~/Pics/ImageNotAvailable.png";
+        }
+    }
+            <div class="col-md-4">
+                <div class="col-sm-12 col-md-12">
+                    <div class="thumbnail mainStyle">
+                        <h4 class="text-center"><span class="label label-info">@Model.Title</span></h4>
+                            <img src="@Url.Content(imgSrc)" class="img-responsive" id="mainImg">
+                        <div class="caption">
+                            <div class="row">
+                                <div class="col-md-12 col-xs-12 price text-center">
+                                        <label>@Model.Price $</label>
+                                </div>
+                            </div>
+                            <div class="descriptionStyle">
+                               @Model.ShortDescription
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <a href="@Url.Action("ShowProductDetails","Product", new { id =Model.Id})" class="btn btn-primary btn-product"><span class="glyphicon glyphicon-info-sign"></span> Details</a>
+                                </div>
+                                <div class="col-md-6">
+                                    <a href="@Url.Action("AddToCart","Product", new { id =Model.Id})" class="btn btn-success btn-product"><span class="glyphicon glyphicon-shopping-cart"></span> Add To Cart</a>
+                                </div>
+                            </div>
+                            <p> </p>    
+                        </div>
+                    </div>
+                </div>
+            </div>
+</body>
+</html>
+

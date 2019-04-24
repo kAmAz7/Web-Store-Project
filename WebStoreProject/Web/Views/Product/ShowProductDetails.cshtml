@@ -1,0 +1,100 @@
+﻿@model WebProject.ModelDTO.ProductDTO
+
+@{
+    ViewBag.Title = "ShowProductDetails";
+}
+
+@{
+    string imgSrc1 = null;
+    if (Model.Picture1 != null)
+    {
+        var base64 = Convert.ToBase64String(Model.Picture1);
+        imgSrc1 = String.Format("data:image/gif;base64,{0}", base64);
+    }
+    else
+    {
+        imgSrc1 = "~/Pics/ImageNotAvailable.png";
+    }
+
+    string imgSrc2 = null;
+    if (Model.Picture2 != null)
+    {
+        var base64 = Convert.ToBase64String(Model.Picture2);
+        imgSrc2 = String.Format("data:image/gif;base64,{0}", base64);
+    }
+    else
+    {
+        imgSrc2 = "~/Pics/ImageNotAvailable.png";
+    }
+
+    string imgSrc3 = null;
+    if (Model.Picture3 != null)
+    {
+        var base64 = Convert.ToBase64String(Model.Picture3);
+        imgSrc3 = String.Format("data:image/gif;base64,{0}", base64);
+    }
+    else
+    {
+        imgSrc3 = "~/Pics/ImageNotAvailable.png";
+    }
+}
+<link href="~/Style/Moredetails.css" rel="stylesheet" />
+<br/>
+<h2 class="text-center">More details about this product</h2>
+
+<div class="container">
+    <div class="card mainStyle">
+        <div class="container-fliud">
+            <div class="wrapper row">
+                <div class="preview col-md-6">
+                    <div class="fuckIt">
+                        <div class="preview-pic tab-content">
+                            <div class="tab-pane active" id="pic-1"><img class="picFixedSize" src="@Url.Content(imgSrc1)" /></div>
+                            <div class="tab-pane" id="pic-2"><img class="picFixedSize" src="@Url.Content(imgSrc2)" /></div>
+                            <div class="tab-pane" id="pic-3"><img class="picFixedSize" src="@Url.Content(imgSrc3)" /></div>
+                        </div>
+                    </div>
+                    <ul class="preview-thumbnail nav nav-tabs">
+                        <li class="active"><a data-target="#pic-1" data-toggle="tab"><img src="@Url.Content(imgSrc1)" /></a></li>
+                        <li><a data-target="#pic-2" data-toggle="tab"><img src="@Url.Content(imgSrc2)" /></a></li>
+                        <li><a data-target="#pic-3" data-toggle="tab"><img src="@Url.Content(imgSrc3)" /></a></li>
+                    </ul>
+                </div>
+                <div class="details col-md-6">
+                    <h3 class="product-title">@Model.Title</h3>
+                    <p class="product-description"><span class="h4">Short descripton:</span> @Model.ShortDescription</p>
+                    <h4 class="price">current price: <span>$@Model.Price</span></h4>
+                    <h3>Publish date: @Model.Date</h3>
+                    <p class="product-description"><span class="h4">Long description:</span> @Model.LongDescription</p>
+                    <h5>
+                    <span class="h4">Posted by:</span>
+                    <br/>
+                    Name: @Model.Owner.FirstName @Model.Owner.LastName 
+                    <br/>
+                    Birthdate: @Model.Owner.BirthDate 
+                    <br/>
+                    e-mail: @Model.Owner.Email</h5>
+                    <p class="row"></p>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <a href="@Request.UrlReferrer.ToString()" class="btn btn-primary btn-product"><span class="glyphicon glyphicon-backward"></span> Back</a>
+                        </div>
+                        <div class="col-md-6">
+                            @{
+                                if (ViewBag.isProdInCart)
+                                {
+                                    <a href="@Url.Action("AddToCart","Product", new { id =Model.Id})" class="btn btn-success btn-product disabled"><span class="glyphicon glyphicon-shopping-cart" ></span> Add To Cart</a>
+                                }
+                                else
+                                {
+                                    <a href="@Url.Action("AddToCart","Product", new { id =Model.Id})" class="btn btn-success btn-product"><span class="glyphicon glyphicon-shopping-cart"></span> Add To Cart</a>
+                                }
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

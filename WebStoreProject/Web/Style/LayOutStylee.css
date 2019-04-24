@@ -1,0 +1,51 @@
+﻿/*.logoSize {
+    height: 40px;
+    width: 80px;
+}
+
+.notActive {
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+footer {
+    width: 130%;
+    background-color: #C0C0C0;
+    height: 25px;
+    position: fixed;
+    bottom: 0;
+    color: black;
+    text-align: center;
+}
+
+.rightsPosition {
+    text-align: center;
+}*/
+
+.logoSize {
+    height: 40px;
+    width: 80px;
+}
+
+.notActive {
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+footer {
+    width: 100%;
+    background-color: #C0C0C0;
+    height: 25px;
+    position: fixed;
+    bottom: 0;
+    color: black;
+    text-align: center;
+}
+
+.rightsPosition {
+    text-align: center;
+}

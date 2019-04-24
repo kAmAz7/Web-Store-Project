@@ -1,0 +1,90 @@
+﻿body {
+    font-family: "Helvetica";
+    color: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+}
+
+h1 {
+    font-size: 46px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 32px;
+}
+
+h4 {
+    font-size: 24px;
+}
+
+h5 {
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+}
+
+h6 {
+    font-size: 20px;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+.hr.invisible_hr {
+    height: 0;
+    padding: 0;
+}
+
+.hr.big_size_hr {
+    margin: 30px 0;
+}
+
+.hr {
+    clear: both;
+    display: block;
+    font-size: 0;
+    height: 24px;
+    margin: 20px 0;
+    overflow: hidden;
+    padding: 2px 0;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.highlight_secondary {
+    display: block;
+    text-align: left;
+}
+
+.row {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.team {
+    margin: auto;
+    text-align: center;
+}
+
+.team-role {
+}
+
+.team-image {
+    width: 40%;
+    margin: auto;
+}
+
+.team-content {
+}
+
+.team-name h5 {
+    text-align: center;
+}

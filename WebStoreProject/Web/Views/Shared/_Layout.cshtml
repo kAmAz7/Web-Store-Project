@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>e-store</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <link href="~/Style/LayOutStylee.css" rel="stylesheet" />
+    <link href="~/Style/cartButtonStyle.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <img src="~/Pics/logo.png" class="img-center logoSize" onclick="window.location='@Url.Action("Index", "Home")'" />
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    @if (Request.IsAuthenticated)
+                    {
+                        <li class="@(ViewContext.RouteData.Values["Action"].ToString() == "Registration" ? "notActive" : "")">@Html.ActionLink("Update Details", "Registration", "User")</li>
+                    }
+                    else
+                    {
+                        <li class="@(ViewContext.RouteData.Values["Action"].ToString() == "Registration" ? "notActive" : "")">@Html.ActionLink("Register", "Registration", "User")</li>
+                    }
+
+                    <li class="@(ViewContext.RouteData.Values["Action"].ToString() == "ShowCart" ? "notActive" : "")">@Html.ActionLink("Cart", "ShowCart", "Product")</li>
+                    @if (Request.IsAuthenticated)
+                    {
+                        <li class="@(ViewContext.RouteData.Values["Action"].ToString() == "AddProduct" ? "notActive" : "")">@Html.ActionLink("Add Product", "AddProduct", "Product")</li>
+                    }
+                    <li class="@(ViewContext.RouteData.Values["Action"].ToString() == "About" ? "notActive" : "")">@Html.ActionLink("About Us", "About", "Home")</li>
+                </ul>
+
+                <span class="glyphicon-log-in">@Html.Partial("_PartialLogin")</span>
+            </div>
+        </div>
+    </div>
+    <div class="container-body-content">
+        @RenderBody()
+
+        <footer>
+            <p>&copy; @DateTime.Now.Year - e-shop INC</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+
+    @Scripts.Render("~/bundles/jqueryval")
+
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

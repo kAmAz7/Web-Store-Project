@@ -1,0 +1,27 @@
+﻿.btn-product {
+    width: 100%;
+}
+
+#mainImg {
+    height: 35vh;
+    height:20vh;
+}
+
+.truncate-ellipsis {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    white-space: nowrap;
+}
+
+.mainStyle {
+    word-wrap: break-word;
+}
+
+.descriptionStyle {
+    height: 12vh;
+}
+
+.thumbnail{
+    padding:unset;
+}

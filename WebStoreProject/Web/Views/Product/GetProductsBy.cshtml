@@ -1,0 +1,53 @@
+﻿@model IEnumerable<WebProject.ModelDTO.ProductDTO>
+
+@{
+    ViewBag.Title = "Welcome to e-shop";
+}
+<br />
+<head>
+    <link href="~/Style/CartButtonStyle.css" rel="stylesheet" />
+    <link href="~/Style/ViewHeader.css" rel="stylesheet" />
+</head>
+<div class="text-center">
+    <h1>@ViewBag.Title</h1>
+    <h4>Lowest price guaranteed</h4>
+    <p></p>
+</div>
+
+@{
+    if (Model.Count() > 0)
+    {
+        <div class="dropdown">
+            <button class="btn btn-primary dropdown-toggle title" type="button" data-toggle="dropdown">
+                @ViewBag.selectedMethod
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                @foreach (var item in Enum.GetValues(typeof(WebProject.Enum.SearchMethod)))
+                {
+                    <li>@Html.ActionLink(item.ToString(), "GetProductsBy", new { search = item })</li>
+                }
+            </ul>
+        </div>
+        <br />
+        foreach (var item in Model)
+        {
+            @Html.Partial("_PartialAd", item)
+        }
+        <P class="row"></P>
+
+    }
+    else
+    {
+        <h2><span></span>The store is empty, please come back soon</h2>
+    }
+    <div class="cart-box" id="Normal">
+        <ul class="nav navbar-nav">
+            <li class="dropdown">
+                <button onclick="location.href='@Url.Action("ShowCart", "Product")'" class="draggable dropdown-toggle btn btn-primary btn-circle btn-xl" data-toggle="dropdown" role="button" aria-expanded="false"> <span class="glyphicon glyphicon-shopping-cart"></span></button>
+                <span class="cart-items-count"><span class=" notification-counter">@TempData["cartCounter"]</span></span>
+            </li>
+        </ul>
+    </div>
+}
+
