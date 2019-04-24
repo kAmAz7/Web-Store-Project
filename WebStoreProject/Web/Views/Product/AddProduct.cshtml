@@ -4,8 +4,10 @@
     ViewBag.Title = "Create New Ad";
 }
 <br />
+<head>
+    <link href="~/Style/ViewHeader.css" rel="stylesheet" />
+</head>
 <h2>@ViewBag.Title</h2>
-
 
 @using (Html.BeginForm("AddProduct", "Product", FormMethod.Post, new { enctype = "multipart/form-data" }))
 {

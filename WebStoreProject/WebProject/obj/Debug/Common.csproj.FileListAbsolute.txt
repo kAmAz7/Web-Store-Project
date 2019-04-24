@@ -57,3 +57,4 @@ C:\GitHub\Web Store Project\WebStoreProject\WebProject\obj\Debug\Common.csproj.C
 C:\GitHub\Web Store Project\WebStoreProject\WebProject\obj\Debug\Common.csproj.CopyComplete
 C:\GitHub\Web Store Project\WebStoreProject\WebProject\obj\Debug\WebProject.dll
 C:\GitHub\Web Store Project\WebStoreProject\WebProject\obj\Debug\WebProject.pdb
+C:\GitHub\Web Store Project\WebStoreProject\WebProject\obj\Debug\Common.csprojAssemblyReference.cache
